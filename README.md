@@ -35,5 +35,3 @@ This ToDo list maker allows the users to:
 
 
 
-|+\***iol  0cBc2b2b2bcb21
-....*8
